@@ -15,7 +15,7 @@
   <img align="center" alt="Elias-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Elias-Java Script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
+  <img align="right" alt="Elias-pic" height="150" style="border-radius:50px;"
   src="http://3.bp.blogspot.com/-ALk44wZXXS0/TxNm2R5dy0I/AAAAAAAAC2c/oJR28cTja7U/s1600/01.gif">
 </div>
  
